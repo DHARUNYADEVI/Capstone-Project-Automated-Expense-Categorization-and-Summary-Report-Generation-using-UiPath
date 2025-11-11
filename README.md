@@ -60,5 +60,5 @@ End the workflow.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a3af530f-8e14-48e2-adb9-8a673d7096f7" />
 
 
-RESULT:
+## RESULT:
 The workflow successfully categorizes transaction data based on their description into groups and generates a daily summary in a structured CSV file with date tracking.
